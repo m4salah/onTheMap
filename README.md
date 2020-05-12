@@ -37,14 +37,14 @@ Display previous shared location and mediaURL by other student.
 Display latest 100 student shared thier location in a tableview, if you tab on of them you will goto thier mediaURL in safari thier shared.
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/list.png" alt="alt text" width="300" height="550" ><img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/duckduckgo.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/list.png" alt="alt text" width="300" height="550" hspace=10 vspace=10><img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/duckduckgo.png" alt="alt text" width="300" height="550" hspace=10 vspace=10>
 </p>
 
 ### Add Pin Screen
 Allow users to add pin on the map.
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/addlocation.png" alt="alt text" width="300" height="550" ><img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/findlocation.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/addlocation.png" alt="alt text" width="300" height="550" hspace=10 vspace=10><img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/findlocation.png" alt="alt text" width="300" height="550" hspace=10 vspace=10>
 </p>
 
 When the user taps a pin, it displays the pin annotation popup, with the student’s name and mediaURL.
@@ -52,7 +52,7 @@ When the user taps a pin, it displays the pin annotation popup, with the student
 tapping the button within the annotation will launch Safari and direct it to the link associated with the pin.
 
 <p align="center">
-<img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/locationaddedd.png" alt="alt text" width="300" height="550" ><img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/duckduckgo.png" alt="alt text" width="300" height="550" >
+<img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/locationaddedd.png" alt="alt text" width="300" height="550" hspace=10 vspace=10><img src="https://github.com/mohamedspicer/onTheMap/blob/master/Demo/duckduckgo.png" alt="alt text" width="300" height="550" hspace=10 vspace=10>
 </p>
 
 
